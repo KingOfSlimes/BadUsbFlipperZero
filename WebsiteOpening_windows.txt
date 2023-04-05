@@ -6,6 +6,7 @@ STRING chrome
 DELAY 500
 ENTER
 DELAY 1000
+REM Here ↓ ↓ ↓ you can write site!!!
 STRING https://github.com/KingOfSlimes/BadUsbFlipperZero
 ENTER
 
